@@ -1,0 +1,127 @@
+Name,Woman,Man,gender
+Benjamin , 5 , 5 ,0
+Daniel , 4 , 6 ,0
+Aiden , 7 , 3 ,0
+Logan , 6 , 4 ,0
+Jayden , 7 , 3 ,0
+Matthew , 6 , 4 ,0
+Lucas , 7 , 3 ,0
+David , 7 , 3 ,0
+Jackson , 7 , 3 ,0
+Joseph , 5 , 5 ,0
+Tyrone , 3 , 7 ,0
+Darius , 5 , 5 ,0
+Deshawn , 5 , 5 ,0
+Henry , 6 , 4 ,0
+Owen , 6 , 4 ,0
+Ryan , 6 , 4 ,0
+Paul , 5 , 5 ,0
+Graham , 5 , 5 ,0
+Xander , 4 , 6 ,0
+Cayden , 4 , 6 ,0
+Bradley , 5 , 5 ,0
+Elizabeth, 10 , 0 ,1
+Amelia , 10 , 0 ,1
+Evelyn , 10 , 0 ,1
+Tianna , 10 , 0 ,1
+Harper , 10 , 0 ,1
+Ella , 10 , 0 ,1
+Chloe , 10 , 0 ,1
+Avery , 10 , 0 ,1
+Sofia , 10 , 0 ,1
+Grace , 10 , 0 ,1
+Addison , 10 , 0 ,1
+Victoria , 10 , 0 ,1
+Lily , 10 , 0 ,1
+Natalie , 10 , 0,1 
+Aubrey , 10 , 0 ,1
+Harmony , 10 , 0 ,1
+Summer , 10 , 0 ,1
+Catherine , 10 , 0,1 
+Michelle , 10 , 0 ,1
+Rose , 10 , 0 ,1
+Noah ,  6,  4,0
+Liam ,  5,  5,0
+Jacob ,  5,  5,0
+William ,  4,  6,0
+Mason ,  6,  4,0
+Ethan ,  7,  3,0
+Michael ,  6,  4,0
+Alexander ,  6,  4,0
+James ,  7,  3,0
+Elijah ,  6,  4,0
+Emma ,  10,  0,1
+Olivia ,  10,  0,1
+Sophia ,  10,  0,1
+Isabella ,  9,  1,1
+Ava ,  10,  0,1
+Mia ,  8,  2,1
+Abigail ,  10,  0,1
+Emily ,  10,  0,1
+Charlotte ,  10,  0,1
+Madison ,  10,  0,1
+Benjamin , 4 , 6 ,0
+Daniel , 7, 3 ,0
+Aiden , 7 , 3 ,0
+Logan , 6 , 4 ,0
+Jayden , 7 , 3 ,0
+Matthew , 7 , 3 ,0
+Lucas , 7 , 3 ,0
+David , 7 , 3 ,0
+Jackson , 6 , 4 ,0
+Joseph , 6 , 4 ,0
+Tyrone , 6 , 4 ,0
+Darius , 6 , 4 ,0
+Deshawn , 6 , 4 ,0
+Henry , 6 , 4 ,0
+Owen , 7 , 3 ,0
+Ryan , 7 , 3 ,0
+Paul , 6 , 4 ,0
+Graham , 6 , 4 ,0
+Xander , 5 , 5 ,0
+Cayden , 6 , 4 ,0
+Bradley , 5 , 5 ,0
+Noah ,  6,  4,0
+Liam ,  6,  4,0
+Jacob ,  5,  5,0
+William ,  5,  5, 0
+Mason ,  6,  4,0
+Ethan ,  5,  5,0
+Michael ,  6,  4,0
+Alexander ,  7,  3,0
+James ,  6,  4,0
+Elijah ,  6,  4,0
+Elizabeth, 10 , 0 ,1
+Amelia , 10 , 0 ,1
+Evelyn , 10 , 0 ,1
+Tianna , 10 , 0 ,1
+Harper , 9 , 1 ,1
+Ella , 10 , 0 ,1
+Chloe , 10 , 0 ,1
+Avery , 10 , 0 ,1
+Sofia , 10 , 0 ,1
+Grace , 10 , 0 ,1
+Addison , 10 , 0 ,1
+Victoria , 9 , 1 ,1
+Lily , 10 , 0 ,1
+Natalie , 10 , 0,1 
+Aubrey , 10 , 0 ,1
+Harmony , 10 , 0 ,1
+Summer , 10 , 0 ,1
+Catherine , 10 , 0,1 
+Michelle , 10 , 0 ,1
+Rose , 10 , 0 ,1
+Emma ,  10,  0,1
+Olivia ,  10,  0,1
+Sophia ,  10,  0,1
+Isabella ,  9,  1,1
+Ava ,  10,  0,1
+Mia ,  8,  2,1
+Abigail ,  10,  0,1
+Emily ,  10,  0,1
+Charlotte ,  10,  0,1
+Madison ,  10,  0,1
+Zoe, 8, 2,1
+Zoe, 10, 0,1
+
+

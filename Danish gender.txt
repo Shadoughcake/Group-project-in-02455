@@ -1,0 +1,125 @@
+Name,Woman,Man,gender
+August, 5, 5,0
+Valdemar, 6, 4,0
+Otto, 7, 3,0
+Lucas, 5,5,0
+Elliot, 6, 4,0
+Lauge, 6, 4 ,0
+Theo, 6, 4,0
+Elias, 7, 3,0
+Hugo, 6,4,0
+Magnus, 7, 3,0
+Felix, 6, 4,0
+Victor, 6, 4,0
+Viggo, 6, 4,0
+Theodor, 6, 4,0
+Liam, 6, 4 ,0
+Anker, 6, 4,0
+Holger, 6, 4,0
+Erik, 6, 4 ,0
+Loui, 7, 3,0
+Konrad, 6, 4,0
+Noah ,  6,  4,0
+William ,  6,  4,0
+Alfred ,  5,  5,0
+Carl ,  6,  4,0
+Aksel ,  6,  4,0
+Emil ,  5,  5,0
+Oscar ,  6,  4,0
+Malthe ,  6,  4,0
+Oliver ,  5,  5,0
+Arthur ,  7,  3,0
+August, 6, 4,0
+Valdemar, 6, 4,0
+Otto, 7, 3,0
+Lucas, 6,4,0
+Elliot, 6, 4,0
+Lauge, 5, 5 ,0
+Theo, 5, 5,0
+Elias, 5, 5,0
+Hugo, 6,4,0
+Magnus, 6, 4,0
+Felix, 5, 5,0
+Victor, 5, 5,0
+Viggo, 5, 5,0
+Theodor, 6, 4,0
+Liam, 6, 4 ,0
+Anker, 6, 4,0
+Holger, 5, 5,0
+Erik, 3, 7 ,0
+Loui, 6, 4,0
+Konrad, 6, 4,0
+Noah ,  6,  4,0
+William ,  6,  4,0
+Alfred ,  6,  4,0
+Arthur ,  6,  4,0
+Carl ,  6,  4,0
+Aksel ,  5,  5,0
+Emil ,  5,  5,0
+Oscar ,  6,  4,0
+Malthe ,  5,  5,0
+Oliver ,  7,  3,0
+Freja, 10 , 0 ,1
+Clara, 10 , 0 ,1
+Ida, 9 , 1 ,1
+Nora, 10 , 0 ,1
+Esther, 10 , 0 ,1
+Lily, 10 , 0 ,1
+Alberte, 8 , 2,1 
+Ellen, 10 , 0 ,1
+Asta, 10 , 0 ,1
+Aya, 7 , 3 ,1
+Josefine, 10 , 0,1 
+Freja, 8 , 2 ,1
+Clara, 9 , 1 ,1
+Ida, 10 , 0 ,1
+Nora, 10 , 0 ,1
+Esther, 9 , 1 ,1
+Lily, 10 , 0 ,1
+Alberte, 10 , 0,1 
+Ellen, 10 , 0 ,1
+Asta, 10 , 0 ,1
+Aya, 10 , 0 ,1
+Josefine, 9 , 1,1 
+Hannah, 8 , 2 ,1
+Vera, 9 , 1 ,1
+Lærke, 10 , 0 ,1
+Mathilde, 10 , 0,1 
+Astrid, 9 , 1 ,1
+Isabella, 9 , 1 ,1
+Laura, 9 , 1 ,1
+Saga, 9 , 1 ,1
+Frida ,  10,  0,1
+Olivia ,  8,  2,1
+Alma ,  8,  2,1
+Ella ,  8,  2,1
+Agnes ,  8,  2,1
+Emma ,  8,  2,1
+Ellie ,  9,  1,1
+Luna ,  10,  0,1
+Sofia ,  9,  1,1
+Karla ,  9,  1,1
+Hannah, 10 , 0 ,1
+Vera, 10 , 0 ,1
+Lærke, 10 , 0 ,1
+Mathilde, 8 , 2,1 
+Astrid, 10 , 0 ,1
+Isabella, 9 , 1 ,1
+Laura, 10 , 0 ,1
+Saga, 10 , 0 ,1
+Frida ,  8,  2,1
+Olivia ,  10,  0,1
+Alma ,  10,  0,1
+Ella ,  10,  0,1
+Agnes ,  10,  0,1
+Emma ,  8,  2,1
+Ellie ,  10,  0,1
+Luna ,  10,  0,1
+Sofia ,  9,  1,1
+Karla ,  8,  2,1
+Maja, 10, 0,1
+Matheo, 7, 3, 0
+Maja, 10, 0,1
+Vilma, 9,1,1
+Matheo, 8, 2, 0
+Vilma, 10,0,1
